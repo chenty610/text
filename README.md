@@ -5,8 +5,8 @@
 **粗体**
 ***加粗斜体***
 ***
-'print(hello world)'
+print("hello world")'
 '''R
-print(hello world)
+print("hello world")
 library(tidyverse)
 '''
